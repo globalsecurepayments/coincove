@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g>
+        <path d="M14,30.868C11.229,30.495 8.617,29.355 6.459,27.576C4.301,25.798 2.684,23.452 1.789,20.802C0.894,18.153 0.757,15.307 1.394,12.584C2.031,9.861 3.416,7.37 5.393,5.393C7.371,3.416 9.861,2.031 12.584,1.394C15.307,0.757 18.153,0.894 20.802,1.789C23.452,2.684 25.798,4.301 27.577,6.459C29.355,8.617 30.495,11.229 30.868,14" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M12.385,30.561C10.356,27.585 9,22.177 9,16C9,9.823 10.356,4.415 12.385,1.439" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M1,15L13,15" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M3.999,7L28,7" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M2.73,23L11,23" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M19.615,1.439C21.342,4.356 22.394,7.623 22.692,11" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M23,31C27.418,31 31,27.418 31,23C31,18.582 27.418,15 23,15C18.582,15 15,18.582 15,23C15,27.418 18.582,31 23,31Z" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M21,27L21,19L24,19C24.53,19 25.039,19.211 25.414,19.586C25.789,19.961 26,20.47 26,21C26,21.53 25.789,22.039 25.414,22.414C25.039,22.789 24.53,23 24,23C24.53,23 25.039,23.211 25.414,23.586C25.789,23.961 26,24.47 26,25C26,25.53 25.789,26.039 25.414,26.414C25.039,26.789 24.53,27 24,27L21,27Z" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M21,23L24,23" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M23,19L23,18" style="fill:none;fill-rule:nonzero;stroke:rgb(13,127,64);stroke-width:1.5px;"/>
+        <path d="M23,27L23,28" style="fill:none;fill-rule:nonzero;stroke:url(#_Linear1);stroke-width:1.5px;"/>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2e-06,0,0,1,23,27.5)"><stop offset="0" style="stop-color:rgb(13,127,64);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(13,127,64);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
