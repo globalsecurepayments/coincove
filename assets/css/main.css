@@ -7361,7 +7361,7 @@ body.body2 {
   background: red;
 }
 .coin-list .block-text a:hover {
-  color: blue;
+  color: rgb(2, 175, 5);
 }
 .coin-list .coin-list__main {
   margin-top: 22px;
